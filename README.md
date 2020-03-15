@@ -8,7 +8,7 @@ Transfer (with versioning) data from a product stock CSV file to SQL Server DB
 ### 2. CSV to RAW Table
 ### 3. RAW to WRK Table
 ### 4. Conditional Updates on VRS
-* **Sort Tables (RAW and WORK0**
+* **Sort Tables (RAW and WORK0)**
 * **Merge Join**
 * **New Reg -> Insert**
 * **Description Update -> Simple Update (overwrites)**
